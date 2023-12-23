@@ -14,5 +14,5 @@ public class Palindrome{
 			if(Arrays.toString(comparator).equals(Arrays.toString(convert))){returnValue = (givenVariable+" is a palindrome.");}
 			if(!(Arrays.toString(comparator).equals(Arrays.toString(convert)))) {returnValue = (givenVariable+" is not a palindrome.");}
 		return returnValue;	
-		}s
+		}
 }
